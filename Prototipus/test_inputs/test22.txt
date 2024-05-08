@@ -1,0 +1,20 @@
+create room 8 false false false
+create room 8 true false false
+create room
+cmd 1 setNeighbours 2 3
+cmd 2 setNeighbours 1 3
+cmd 3 setNeighbours 1 2
+create student 6 1 false
+create cleaner
+ls
+cmd 10 move 2
+cmd 10 clean 2
+cmd 2 status
+cmd 10 move 3
+cmd 4 move 2
+cmd 5 move 2
+cmd 6 move 2
+cmd 7 move 2
+cmd 8 move 2
+tick 2
+cmd 2 status

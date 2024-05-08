@@ -1,0 +1,6 @@
+create room
+create student 1 1 false
+create logarlec
+ls
+cmd 3 add 1
+cmd 3 add 2

@@ -1,0 +1,19 @@
+create room
+create student 2 1 false
+create mask
+create sponge
+create camembert
+create beer
+create tvsz
+ls
+cmd 4 add 2
+cmd 5 add 2
+cmd 6 add 2
+cmd 2 inventory
+cmd 7 add 3
+cmd 8 add 3
+cmd 3 inventory
+cmd 4 use
+cmd 6 gassing 1
+cmd 2 inventory
+cmd 3 inventory

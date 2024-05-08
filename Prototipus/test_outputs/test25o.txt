@@ -1,0 +1,7 @@
+#1 room created: cap: 5 p: true c: false s: false
+#2 room created: cap: 5 p: false c: false s: false
+#3 student created: n: 1 r: 1 u: true
+#4 student created: n: 1 r: 2 u: false
+#5 spray created
+room: cap: 5 p: false c: false s: false
+student: r: 1 u: false

@@ -1,0 +1,23 @@
+create room
+create student 1 1 false
+create transistor
+create tvsz
+create sponge
+create beer
+create mask
+create camembert
+create spray
+ls
+cmd 3 add 2
+cmd 4 add 2
+cmd 5 add 2
+cmd 6 add 2
+cmd 7 add 2
+cmd 2 inventory
+cmd 8 add 2
+cmd 2 inventory
+cmd 2 remove 3 4 5 6 7
+cmd 2 inventory
+cmd 8 add 2
+cmd 9 add 2
+cmd 2 inventory

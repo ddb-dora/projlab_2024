@@ -1,0 +1,14 @@
+create room
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1
+create teacher 1 1 false false
+create student 2 2 false
+create tvsz 1 false
+ls
+cmd 6 add 4
+cmd 4 inventory
+cmd 3 move 2
+cmd 6 use
+cmd 3 room
+cmd 4 inventory

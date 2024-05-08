@@ -1,0 +1,6 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 room created: cap: 5 p: false c: false s: false
+#3 student created: n: 1 r: 1 u: false
+#4 teacher created: n: 1 r: 2 u: false p: false
+#5 sponge created: l: 3
+teacher: r: 1 u: false p: true

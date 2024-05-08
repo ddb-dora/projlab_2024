@@ -1,0 +1,9 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 student created: n: 1 r: 1 u: false
+#3 beer created: t: 3
+#4 tvsz created: t: 3 d: false
+#5 transistor created: c: false a: false
+#6 teacher created: n: 1 r: 1 u: false p: false
+tvsz,beer,transistor
+beer,transistor
+tvsz

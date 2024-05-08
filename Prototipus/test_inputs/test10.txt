@@ -1,0 +1,10 @@
+create room
+create teacher 1 1 false false
+create logarlec
+create logarlec true
+ls
+cmd 3 add 1
+cmd 4 add 1
+cmd 3 add 2
+cmd 4 add 2
+cmd 2 inventory

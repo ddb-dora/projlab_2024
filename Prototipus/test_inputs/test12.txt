@@ -1,0 +1,26 @@
+create room
+create room
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1 3
+cmd 3 setNeighbours 2
+create student 1 1 false
+create transistor false false
+create transistor false false
+ls
+cmd 4 room
+cmd 5 add 4
+cmd 6 add 4
+cmd 5 connect 6
+cmd 6 connect 5
+cmd 5 status
+cmd 6 status
+cmd 4 place 5
+cmd 4 move 2
+cmd 4 move 3
+cmd 4 room
+cmd 6 activate
+cmd 6 status
+cmd 4 place 6
+cmd 4 room
+cmd 6 status

@@ -1,0 +1,11 @@
+#1 room created: cap: 5 p: false c: false s: true
+#2 room created: cap: 5 p: false c: false s: false
+#3 tvsz created: t: 3 d: false
+#4 logarlec created: d: false
+#5 student created: n: 2 r: 1 u: false
+#6 student created: n: 2 r: 1 u: false
+#7 cleaner created: n: 1 r: 2
+1
+room: cap: 5 p: false c: false s: false
+2
+WIN

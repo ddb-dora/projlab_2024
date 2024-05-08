@@ -1,0 +1,9 @@
+create room
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1
+create teacher
+create student 5 2 false
+ls
+cmd 3 move 2
+cmd 3 room

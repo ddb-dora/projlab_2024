@@ -1,0 +1,10 @@
+create room
+create student 1 1 false
+create transistor true false
+create transistor true true
+ls
+cmd 3 add 1
+cmd 4 add 1
+cmd 3 add 2
+cmd 4 add 2
+cmd 2 inventory

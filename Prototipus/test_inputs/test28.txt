@@ -1,0 +1,11 @@
+create room
+create student 1 1 false
+create teacher 1 1 false false
+create camembert
+create mask 3 3 true
+ls
+cmd 4 add 2
+cmd 5 add 2
+cmd 2 inventory
+cmd 4 gassing 1
+cmd 2 status

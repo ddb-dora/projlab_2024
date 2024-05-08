@@ -1,0 +1,13 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 room created: cap: 5 p: false c: false s: false
+#3 room created: cap: 5 p: false c: false s: false
+#4 student created: n: 1 r: 1 u: false
+#5 transistor created: c: false a: false
+#6 transistor created: c: false a: false
+1
+transistor: c: true a: false
+transistor: c: true a: false
+3
+transistor: c: true a: true
+1
+transistor: c: false a: false

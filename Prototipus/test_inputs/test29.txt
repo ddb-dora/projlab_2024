@@ -1,0 +1,7 @@
+create room
+create student 1 1 false
+create teacher 1 1 false false
+create tvsz 3 true
+ls
+tick 0
+tick 0

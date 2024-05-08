@@ -1,0 +1,10 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 room created: cap: 5 p: false c: false s: false
+#3 cleaner created: n: 1 r: 2
+#4 teacher created: n: 1 r: 1 u: false p: true
+#5 student created: n: 2 r: 1 u: false
+#6 student created: n: 2 r: 1 u: false
+1
+1
+2
+teacher: r: 1 u: false p: true

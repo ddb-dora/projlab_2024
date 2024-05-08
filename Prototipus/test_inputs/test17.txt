@@ -1,0 +1,16 @@
+create room
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1
+create student
+create beer
+create sponge
+ls
+cmd 4 add 1
+cmd 1 inventory
+cmd 5 add 2
+cmd 2 inventory
+cmd 3 room
+cmd 1 merge 2
+cmd 1 inventory
+cmd 3 room

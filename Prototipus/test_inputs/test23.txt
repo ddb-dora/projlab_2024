@@ -1,0 +1,14 @@
+create room
+create student
+create beer 
+create tvsz
+create transistor
+create teacher 1 1 false false
+ls
+cmd 4 add 2
+cmd 3 add 2
+cmd 5 add 2
+cmd 2 inventory
+cmd 3 use
+cmd 2 inventory
+cmd 1 inventory

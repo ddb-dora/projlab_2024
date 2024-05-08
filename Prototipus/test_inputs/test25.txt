@@ -1,0 +1,14 @@
+create room 5 true false false
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1
+create student 1 1 true
+create student 1 2 false
+create spray
+ls
+cmd 5 add 4
+cmd 4 move 1
+cmd 5 clean 1
+tick 0
+cmd 1 status
+cmd 3 status

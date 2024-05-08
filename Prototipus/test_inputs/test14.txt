@@ -1,0 +1,13 @@
+create room
+create room
+cmd 1 setNeighbours 2
+cmd 2 setNeighbours 1
+create student 1 1 false
+create teacher 1 2 false false
+create sponge
+ls
+cmd 5 add 1
+cmd 5 add 3
+cmd 4 move 1
+cmd 5 paralyze 4
+cmd 4 status

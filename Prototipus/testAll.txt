@@ -1,0 +1,87 @@
+load test_inputs/test1.txt
+save out_1.txt
+clear
+load test_inputs/test2.txt
+save out_2.txt
+clear
+load test_inputs/test3.txt
+save out_3.txt
+clear
+load test_inputs/test4.txt
+save out_4.txt
+clear
+load test_inputs/test5.txt
+save out_5.txt
+clear
+load test_inputs/test6.txt
+save out_6.txt
+clear
+load test_inputs/test7.txt
+save out_7.txt
+clear
+load test_inputs/test8.txt
+save out_8.txt
+clear
+load test_inputs/test9.txt
+save out_9.txt
+clear
+load test_inputs/test10.txt
+save out_10.txt
+clear
+load test_inputs/test11.txt
+save out_11.txt
+clear
+load test_inputs/test12.txt
+save out_12.txt
+clear
+load test_inputs/test13.txt
+save out_13.txt
+clear
+load test_inputs/test14.txt
+save out_14.txt
+clear
+load test_inputs/test15.txt
+save out_15.txt
+clear
+load test_inputs/test16.txt
+save out_16.txt
+clear
+load test_inputs/test17.txt
+save out_17.txt
+clear
+load test_inputs/test18.txt
+save out_18.txt
+clear
+load test_inputs/test19.txt
+save out_19.txt
+clear
+load test_inputs/test20.txt
+save out_20.txt
+clear
+load test_inputs/test21.txt
+save out_21.txt
+clear
+load test_inputs/test22.txt
+save out_22.txt
+clear
+load test_inputs/test23.txt
+save out_23.txt
+clear
+load test_inputs/test24.txt
+save out_24.txt
+clear
+load test_inputs/test25.txt
+save out_25.txt
+clear
+load test_inputs/test26.txt
+save out_26.txt
+clear
+load test_inputs/test27.txt
+save out_27.txt
+clear
+load test_inputs/test28.txt
+save out_28.txt
+clear
+load test_inputs/test29.txt
+save out_29.txt
+clear

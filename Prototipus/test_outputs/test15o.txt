@@ -1,0 +1,11 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 student created: n: 2 r: 1 u: false
+#3 student created: n: 2 r: 1 u: false
+#4 mask created: l: 3 t: 3 d: false
+#5 sponge created: l: 3
+#6 camembert created: o: false
+#7 beer created: t: 3
+#8 tvsz created: t: 3 d: false
+mask,sponge,camembert
+beer,tvsz
+mask,sponge

@@ -1,0 +1,4 @@
+#1 room created: cap: 5 p: false c: false s: false
+#2 student created: n: 1 r: 1 u: false
+#3 logarlec created: d: false
+WIN
